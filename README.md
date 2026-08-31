@@ -19,84 +19,143 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## About
+## 👋 About
 
-- **SWE Intern @ Microsoft** — Fabric Real-Time Intelligence, Redmond WA
-- **SWE Intern @ Guardiane (USF)** — grant-funded child-safety app, ML + federated learning
-- **B.S. Computer Science, Minor in Mathematics** @ USF Judy Genshaft Honors College · **3.98 GPA** · May 2028
-- **Uber Career Prep Fellow** (top 4%) · **Google Developers Group Tech Lead** · CodePath · UR2PhD
+- 🪟 **SWE Intern @ Microsoft** — Fabric Real-Time Intelligence, Redmond WA
+- 🛡️ **SWE Intern @ Guardiane (USF)** — grant-funded child-safety app, ML + federated learning
+- 🎓 **B.S. Computer Science, Minor in Mathematics** @ USF Judy Genshaft Honors College · **3.98 GPA** · May 2028
+- 🏅 **Uber Career Prep Fellow** (top 4%) · **Google Developers Group Tech Lead** · CodePath · UR2PhD
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Experience Highlights
+## 🏢 Experience
 
-**Microsoft** · Software Engineer Intern, RTI IQ Unified Experiences · *Summer 2026*
+### <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="20" align="absmiddle"/> &nbsp;Microsoft &nbsp;·&nbsp; Software Engineer Intern
+
+<sub>**RTI IQ Unified Experiences** · Summer 2026 · Redmond, WA</sub>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fluent%20UI-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kusto%20%2F%20KQL-3970E4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+
 - Built the end-to-end **Multivariate Anomaly Detector** UI for **14+ detection models** in React, TypeScript, FluentUI and TanStack Query
 - Shipped real-time **Kusto dashboards** tracking **12+** Azure monitoring and billing metrics
 - Supported **GA of Fabric Operations Agents** for **500+ enterprise customers**
 
-**Guardiane @ USF** · Software Engineer Intern · *May 2025 – May 2026*
+### <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Official_USF_Bulls_Athletic_Logo.png" height="24" align="absmiddle"/> &nbsp;Guardiane @ USF &nbsp;·&nbsp; Software Engineer Intern
+
+<sub>May 2025 – May 2026 · Tampa, FL</sub>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Qwen3--4B-615CED?style=flat-square&logo=qwen&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+
 - Cross-platform grant-funded mobile app, lifting predator-risk detection **+90%** with federated learning
 - Fine-tuned **Qwen3-4B** on **150K+** records, pushing classification accuracy **40% → 90%**
 - Engineered a **multi-agent classroom** (React · FastAPI · MongoDB · OpenAI) with **6+** tool-calling personas
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project | Highlight | Stack |
-|---|---|---|
-| **[ToastTutor](https://github.com/ttrang87/toast-tutor)** | K–12 tutoring platform — Redis caching cut response time **5ms → 1ms**, CI/CD deploys in **38s** | `Django` `React` `Redis` `Supabase` `Docker` |
-| **[FinBud](https://github.com/finbud2024/Finbud)** | LLM financial advisor for Vietnamese speakers — RAG over DeepSeek-V3, **200+** concurrent users | `LangGraph` `Vue.js` `MongoDB` `Puppeteer` |
-| **[DeStress](https://github.com/phucle2k6/DeStress)** | Mental-health chatbot on a fine-tuned **Qwen2.5-0.5B** (TRL SFTTrainer, 2K+ conversations) | `React` `Express` `Flask` `Hugging Face` |
-| **[Nano_GPT](https://github.com/phucle2k6/Nano_GPT)** | GPT built from scratch — attention, tokenization and training loop implemented by hand | `PyTorch` `Python` |
+### 🍞 [ToastTutor](https://github.com/ttrang87/toast-tutor)
+
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+> K–12 tutoring platform — Redis caching cut response time **5ms → 1ms**, CI/CD deploys in **38s**
+
+### 💰 [FinBud](https://github.com/finbud2024/Finbud)
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek--V3-4D6BFE?style=flat-square&logo=deepseek&logoColor=white"/>
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/>
+
+> LLM financial advisor for Vietnamese speakers — RAG over DeepSeek-V3, **200+** concurrent users
+
+### 🧠 [DeStress](https://github.com/phucle2k6/DeStress)
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Qwen2.5-615CED?style=flat-square&logo=qwen&logoColor=white"/>
+
+> Mental-health chatbot on a fine-tuned **Qwen2.5-0.5B** (TRL SFTTrainer, 2K+ conversations)
+
+### 🤖 [Nano_GPT](https://github.com/phucle2k6/Nano_GPT)
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
+> GPT built from scratch — attention, tokenization and training loop implemented by hand
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
 
 **Frontend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>&nbsp;
-<img src="https://img.shields.io/badge/Fluent%20UI-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="26"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" alt="GraphQL"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="40" alt="Vitest"/>&nbsp;
+<img src="https://img.shields.io/badge/Fluent%20UI-0078D4?style=flat-square" height="26"/>&nbsp;
 <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white" height="26"/>
 
-**Backend & AI**
+**Backend &amp; AI**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>&nbsp;
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="26"/>&nbsp;
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="26"/>&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" height="26"/>
 
-**Data, Cloud & DevOps**
+**Data, Cloud &amp; DevOps**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" alt="Docker"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" alt="GitHub Actions"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 
 </div>
 
@@ -104,7 +163,7 @@
 
 <div align="center">
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <img height="165" src="./profile/stats.svg" alt="GitHub Stats"/>
 <img height="165" src="./profile/top-langs.svg" alt="Top Languages"/>
@@ -113,7 +172,10 @@
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=phucle2k6&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-<h2><img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="30"> Contribution Snake</h2>
+<h2>
+  <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="30">
+  Contribution Snake
+</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucle2k6/lenguyenduyphuc/output/github-contribution-grid-snake-dark.svg"/>

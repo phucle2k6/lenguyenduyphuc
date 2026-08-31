@@ -21,6 +21,9 @@ jobs:
           card: stats
           options: username=phucle2k6&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github
           path: profile/stats.svg
+          # GITHUB_TOKEN cannot read user-level stats ("Resource not accessible by
+          # integration") - this needs a classic PAT with read:user + repo scope.
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate Top Languages
         uses: readme-tools/github-readme-stats-action@v1
@@ -28,6 +31,7 @@ jobs:
           card: top-langs
           options: username=phucle2k6&layout=compact&theme=tokyonight&hide_border=true&border_radius=10
           path: profile/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit generated files
         run: |
