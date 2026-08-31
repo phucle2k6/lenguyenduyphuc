@@ -237,9 +237,9 @@ I build full-stack products and the models behind them. I study Computer Science
 </h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucle2k6/lenguyenduyphuc/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucle2k6/lenguyenduyphuc/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/phucle2k6/lenguyenduyphuc/output/github-contribution-grid-snake.svg" alt="github-snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucle2k6/phucle2k6/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucle2k6/phucle2k6/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/phucle2k6/phucle2k6/output/github-contribution-grid-snake.svg" alt="github-snake"/>
 </picture>
 
 </div>
