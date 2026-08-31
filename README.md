@@ -19,11 +19,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👋 About
+## 👋 About Me
 
-I build full-stack products and the models behind them. I study Computer Science with a Mathematics minor at the **USF Judy Genshaft Honors College** (3.98 GPA, May 2028), and I intern on **Microsoft Fabric Real-Time Intelligence**.
+I'm a junior at the University of South Florida studying Computer Science with a minor in Mathematics. I build full-stack products and the models behind them, and I like problems where shipping the interface matters as much as training the model.
 
-**Uber Career Prep Fellow** (top 4%) · **Google Developers Group Tech Lead** · CodePath · UR2PhD
+🎓 Computer Science major, Mathematics minor at USF — Judy Genshaft Honors College, Class of 2028<br/>
+🪟 Software Engineer Intern at Microsoft — Fabric Real-Time Intelligence, Summer 2026<br/>
+🛡️ Software Engineer Intern at Guardiane (USF) — grant-funded child-safety app built on federated learning<br/>
+🌟 Uber Career Prep Fellow (top 4% of applicants) and Google Developers Group Tech Lead<br/>
+🚀 Interested in full-stack engineering, applied AI, real-time data, and developer tools<br/>
+🌱 Currently going deeper on LLM fine-tuning, real-time data systems, and distributed system design
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -94,18 +99,18 @@ I build full-stack products and the models behind them. I study Computer Science
 <tr>
 <td width="50%" align="center" valign="top">
 
-<a href="https://github.com/ttrang87/toast-tutor">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=ttrang87/toast-tutor&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="ToastTutor"/>
+<a href="https://github.com/MscroHard/horizonrag">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=MscroHard/horizonrag&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="HorizonRAG"/>
 </a>
 
 <p>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square"/>
 </p>
 
-<p align="center">Tutoring platform where K–12 and test-prep students book peer tutors.<br/>Redis caching cut response time from <b>5ms to 1ms</b>.</p>
+<p align="center">Document Q&amp;A that runs embedding, DiskANN vector search, and generation <i>inside</i> Azure HorizonDB.<br/><a href="https://horizonrag-1d00d9.azurewebsites.net">Live demo</a> · Microsoft Intern Hackathon 2026</p>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -122,6 +127,40 @@ I build full-stack products and the models behind them. I study Computer Science
 </p>
 
 <p align="center">Financial advisor for Vietnamese speakers.<br/>A RAG pipeline over DeepSeek-V3 answers <b>200+</b> concurrent users.</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/phucle2k6/toast-tutor">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=toast-tutor&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="ToastTutor"/>
+</a>
+
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center">Tutoring platform where K–12 and test-prep students book peer tutors.<br/>Redis caching cut response time from <b>5ms to 1ms</b>.</p>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/dahomita/ptnk-connector-opensource">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=dahomita/ptnk-connector-opensource&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="PTNK Connector"/>
+</a>
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+</p>
+
+<p align="center">Alumni network that maps where graduates live on a clustered interactive globe.<br/><a href="https://ptnk-connector-opensource.vercel.app/">Live demo</a> · open source</p>
 
 </td>
 </tr>
