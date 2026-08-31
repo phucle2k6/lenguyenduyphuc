@@ -33,10 +33,12 @@ I build full-stack products and the models behind them. I study Computer Science
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="24" alt="Microsoft"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="28" alt="Microsoft"/>
 
 <h3>Software Engineer Intern</h3>
-<sub><b>Microsoft</b> · RTI IQ Unified Experiences<br/>Summer 2026 · Redmond, WA</sub>
+
+<b>Microsoft</b> · RTI IQ Unified Experiences<br/>
+<sub>Summer 2026 · Redmond, WA</sub>
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -57,10 +59,12 @@ I build full-stack products and the models behind them. I study Computer Science
 </td>
 <td width="50%" valign="top">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Official_USF_Bulls_Athletic_Logo.png" height="30" alt="University of South Florida"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Official_USF_Bulls_Athletic_Logo.png" height="28" alt="University of South Florida"/>
 
 <h3>Software Engineer Intern</h3>
-<sub><b>Guardiane</b> · University of South Florida<br/>May 2025 – May 2026 · Tampa, FL</sub>
+
+<b>Guardiane</b> · University of South Florida<br/>
+<sub>May 2025 – May 2026 · Tampa, FL</sub>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -88,63 +92,60 @@ I build full-stack products and the models behind them. I study Computer Science
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/ttrang87/toast-tutor">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=ttrang87/toast-tutor&show_owner=true&theme=tokyonight&hide_border=true&border_radius=10" alt="ToastTutor"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=ttrang87/toast-tutor&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="ToastTutor"/>
 </a>
 
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-Tutoring platform for K–12 and test-prep students. Redis caching cut response time from <b>5ms to 1ms</b>; GitHub Actions deploys in <b>38 seconds</b>.
+<p align="center">Tutoring platform where K–12 and test-prep students book peer tutors.<br/>Redis caching cut response time from <b>5ms to 1ms</b>.</p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/finbud2024/Finbud">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=finbud2024/Finbud&show_owner=true&theme=tokyonight&hide_border=true&border_radius=10" alt="FinBud"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=finbud2024/Finbud&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="FinBud"/>
 </a>
 
 <p>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/DeepSeek--V3-4D6BFE?style=flat-square&logo=deepseek&logoColor=white"/>
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/>
 </p>
 
-Financial advisor for Vietnamese speakers. A RAG pipeline over DeepSeek-V3 answers <b>200+</b> concurrent users; Puppeteer scrapes <b>20+</b> newspapers nightly.
+<p align="center">Financial advisor for Vietnamese speakers.<br/>A RAG pipeline over DeepSeek-V3 answers <b>200+</b> concurrent users.</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/phucle2k6/DeStress">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10" alt="DeStress"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=DeStress&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="DeStress"/>
 </a>
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Qwen2.5-615CED?style=flat-square&logo=qwen&logoColor=white"/>
 </p>
 
-Mental-health chatbot running a <b>Qwen2.5-0.5B</b> model I fine-tuned on <b>2,000+</b> stress conversations, served from a Flask API that picks GPU or CPU at runtime.
+<p align="center">Mental-health chatbot on a <b>Qwen2.5-0.5B</b> model.<br/>Fine-tuned on <b>2,000+</b> stress conversations.</p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/phucle2k6/Nano_GPT">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=Nano_GPT&theme=tokyonight&hide_border=true&border_radius=10" alt="Nano_GPT"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=Nano_GPT&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="Nano_GPT"/>
 </a>
 
 <p>
@@ -153,7 +154,7 @@ Mental-health chatbot running a <b>Qwen2.5-0.5B</b> model I fine-tuned on <b>2,0
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
-A GPT written from scratch. Self-attention, tokenization, and the training loop are implemented by hand rather than imported.
+<p align="center">A GPT written from scratch.<br/>Self-attention, tokenization, and the training loop by hand.</p>
 
 </td>
 </tr>

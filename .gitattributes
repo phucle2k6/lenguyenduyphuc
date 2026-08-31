@@ -1,0 +1,10 @@
+# Git for Windows sets core.autocrlf=true system-wide, which rewrites checkouts
+# to CRLF. Pin the working tree to LF so Markdown and workflow YAML match what is
+# stored in the repository.
+* text=auto eol=lf
+
+# Binary assets Git must never touch.
+*.png binary
+*.gif binary
+*.jpg binary
+*.ico binary
