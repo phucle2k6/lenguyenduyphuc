@@ -21,19 +21,24 @@
 
 ## 👋 About
 
-- 🪟 **SWE Intern @ Microsoft** — Fabric Real-Time Intelligence, Redmond WA
-- 🛡️ **SWE Intern @ Guardiane (USF)** — grant-funded child-safety app, ML + federated learning
-- 🎓 **B.S. Computer Science, Minor in Mathematics** @ USF Judy Genshaft Honors College · **3.98 GPA** · May 2028
-- 🏅 **Uber Career Prep Fellow** (top 4%) · **Google Developers Group Tech Lead** · CodePath · UR2PhD
+I build full-stack products and the models behind them. I study Computer Science with a Mathematics minor at the **USF Judy Genshaft Honors College** (3.98 GPA, May 2028), and I intern on **Microsoft Fabric Real-Time Intelligence**.
+
+**Uber Career Prep Fellow** (top 4%) · **Google Developers Group Tech Lead** · CodePath · UR2PhD
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏢 Experience
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="20" align="absmiddle"/> &nbsp;Microsoft &nbsp;·&nbsp; Software Engineer Intern
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<sub>**RTI IQ Unified Experiences** · Summer 2026 · Redmond, WA</sub>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="24" alt="Microsoft"/>
 
+<h3>Software Engineer Intern</h3>
+<sub><b>Microsoft</b> · RTI IQ Unified Experiences<br/>Summer 2026 · Redmond, WA</sub>
+
+<p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fluent%20UI-0078D4?style=flat-square"/>
@@ -41,15 +46,23 @@
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Kusto%20%2F%20KQL-3970E4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+</p>
 
-- Built the end-to-end **Multivariate Anomaly Detector** UI for **14+ detection models** in React, TypeScript, FluentUI and TanStack Query
-- Shipped real-time **Kusto dashboards** tracking **12+** Azure monitoring and billing metrics
-- Supported **GA of Fabric Operations Agents** for **500+ enterprise customers**
+<ul>
+<li>Built the <b>Multivariate Anomaly Detector</b> UI covering <b>14+ detection models</b>, from data visualization through telemetry and accessibility</li>
+<li>Embedded real-time <b>Kusto dashboards</b> that track <b>12+</b> Azure monitoring and billing metrics</li>
+<li>Shipped <b>Fabric Operations Agents</b> to general availability for <b>500+ enterprise customers</b></li>
+</ul>
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Official_USF_Bulls_Athletic_Logo.png" height="24" align="absmiddle"/> &nbsp;Guardiane @ USF &nbsp;·&nbsp; Software Engineer Intern
+</td>
+<td width="50%" valign="top">
 
-<sub>May 2025 – May 2026 · Tampa, FL</sub>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Official_USF_Bulls_Athletic_Logo.png" height="30" alt="University of South Florida"/>
 
+<h3>Software Engineer Intern</h3>
+<sub><b>Guardiane</b> · University of South Florida<br/>May 2025 – May 2026 · Tampa, FL</sub>
+
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
@@ -57,53 +70,94 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+</p>
 
-- Cross-platform grant-funded mobile app, lifting predator-risk detection **+90%** with federated learning
-- Fine-tuned **Qwen3-4B** on **150K+** records, pushing classification accuracy **40% → 90%**
-- Engineered a **multi-agent classroom** (React · FastAPI · MongoDB · OpenAI) with **6+** tool-calling personas
+<ul>
+<li>Raised predator-risk detection <b>90%</b> in a grant-funded Android and iOS app using federated learning</li>
+<li>Fine-tuned <b>Qwen3-4B</b> on <b>150K+</b> records, lifting classification accuracy from <b>40% to 90%</b></li>
+<li>Built a multi-agent classroom that orchestrates <b>6+</b> tool-calling personas over lecture material</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
-### 🍞 [ToastTutor](https://github.com/ttrang87/toast-tutor)
+<table>
+<tr>
+<td width="50%" align="center">
 
+<a href="https://github.com/ttrang87/toast-tutor">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=ttrang87/toast-tutor&show_owner=true&theme=tokyonight&hide_border=true&border_radius=10" alt="ToastTutor"/>
+</a>
+
+<p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
 
-> K–12 tutoring platform — Redis caching cut response time **5ms → 1ms**, CI/CD deploys in **38s**
+Tutoring platform for K–12 and test-prep students. Redis caching cut response time from <b>5ms to 1ms</b>; GitHub Actions deploys in <b>38 seconds</b>.
 
-### 💰 [FinBud](https://github.com/finbud2024/Finbud)
+</td>
+<td width="50%" align="center">
 
+<a href="https://github.com/finbud2024/Finbud">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=finbud2024/Finbud&show_owner=true&theme=tokyonight&hide_border=true&border_radius=10" alt="FinBud"/>
+</a>
+
+<p>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/DeepSeek--V3-4D6BFE?style=flat-square&logo=deepseek&logoColor=white"/>
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/>
+</p>
 
-> LLM financial advisor for Vietnamese speakers — RAG over DeepSeek-V3, **200+** concurrent users
+Financial advisor for Vietnamese speakers. A RAG pipeline over DeepSeek-V3 answers <b>200+</b> concurrent users; Puppeteer scrapes <b>20+</b> newspapers nightly.
 
-### 🧠 [DeStress](https://github.com/phucle2k6/DeStress)
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
+<a href="https://github.com/phucle2k6/DeStress">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10" alt="DeStress"/>
+</a>
+
+<p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Qwen2.5-615CED?style=flat-square&logo=qwen&logoColor=white"/>
+</p>
 
-> Mental-health chatbot on a fine-tuned **Qwen2.5-0.5B** (TRL SFTTrainer, 2K+ conversations)
+Mental-health chatbot running a <b>Qwen2.5-0.5B</b> model I fine-tuned on <b>2,000+</b> stress conversations, served from a Flask API that picks GPU or CPU at runtime.
 
-### 🤖 [Nano_GPT](https://github.com/phucle2k6/Nano_GPT)
+</td>
+<td width="50%" align="center">
 
+<a href="https://github.com/phucle2k6/Nano_GPT">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=Nano_GPT&theme=tokyonight&hide_border=true&border_radius=10" alt="Nano_GPT"/>
+</a>
+
+<p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
 
-> GPT built from scratch — attention, tokenization and training loop implemented by hand
+A GPT written from scratch. Self-attention, tokenization, and the training loop are implemented by hand rather than imported.
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -165,12 +219,16 @@
 
 ## 📊 GitHub Stats
 
-<img height="165" src="./profile/stats.svg" alt="GitHub Stats"/>
-<img height="165" src="./profile/top-langs.svg" alt="Top Languages"/>
+<a href="https://github.com/phucle2k6">
+  <img height="180" align="center" src="https://github-stats-extended.vercel.app/api?username=phucle2k6&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=10"/>
+</a>
+<a href="https://github.com/phucle2k6">
+  <img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=phucle2k6&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true&border_radius=10"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=phucle2k6&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=phucle2k6&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 <h2>
   <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="30">
