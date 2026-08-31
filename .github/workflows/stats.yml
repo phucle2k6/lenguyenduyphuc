@@ -16,14 +16,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=lenguyenduyphuc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github
+          options: username=phucle2k6&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github
           path: profile/stats.svg
 
       - name: Generate Top Languages
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=lenguyenduyphuc&layout=compact&theme=tokyonight&hide_border=true&border_radius=10
+          options: username=phucle2k6&layout=compact&theme=tokyonight&hide_border=true&border_radius=10
           path: profile/top-langs.svg
 
       - name: Commit generated files
