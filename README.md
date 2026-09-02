@@ -97,7 +97,7 @@ I'm a junior at the University of South Florida studying Computer Science with a
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="440" align="center" valign="top">
 
 <a href="https://github.com/MscroHard/horizonrag">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=MscroHard/horizonrag&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="HorizonRAG"/>
@@ -113,7 +113,7 @@ I'm a junior at the University of South Florida studying Computer Science with a
 <p align="center">Document Q&amp;A that runs embedding, DiskANN vector search, and generation <i>inside</i> Azure HorizonDB.<br/><a href="https://horizonrag-1d00d9.azurewebsites.net">Live demo</a> · Microsoft Intern Hackathon 2026</p>
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="440" align="center" valign="top">
 
 <a href="https://github.com/finbud2024/Finbud">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=finbud2024/Finbud&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="FinBud"/>
@@ -131,7 +131,7 @@ I'm a junior at the University of South Florida studying Computer Science with a
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="440" align="center" valign="top">
 
 <a href="https://github.com/phucle2k6/toast-tutor">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=toast-tutor&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="ToastTutor"/>
@@ -147,7 +147,7 @@ I'm a junior at the University of South Florida studying Computer Science with a
 <p align="center">Tutoring platform where K–12 and test-prep students book peer tutors.<br/>Redis caching cut response time from <b>5ms to 1ms</b>.</p>
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="440" align="center" valign="top">
 
 <a href="https://github.com/dahomita/ptnk-connector-opensource">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=dahomita/ptnk-connector-opensource&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="PTNK Connector"/>
@@ -165,7 +165,7 @@ I'm a junior at the University of South Florida studying Computer Science with a
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="440" align="center" valign="top">
 
 <a href="https://github.com/phucle2k6/DeStress">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=DeStress&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="DeStress"/>
@@ -181,7 +181,7 @@ I'm a junior at the University of South Florida studying Computer Science with a
 <p align="center">Mental-health chatbot on a <b>Qwen2.5-0.5B</b> model.<br/>Fine-tuned on <b>2,000+</b> stress conversations.</p>
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="440" align="center" valign="top">
 
 <a href="https://github.com/phucle2k6/Nano_GPT">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=phucle2k6&repo=Nano_GPT&show_owner=true&card_width=400&description_lines_count=2&theme=tokyonight&hide_border=true&border_radius=10" alt="Nano_GPT"/>
